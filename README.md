@@ -25,25 +25,20 @@ scalable, and efficient web applications.
 
 ### 💻 Programming Languages
 
-**Python
-**C
-**C++
-**Java
+Python|| C || C++ || Java
 
 ### 🌐 Backend Development
 
-**Python
-**Django
-**REST API
+Python || Django
+
 
 ### 🗄️ Database
  
-  **MySQL
+  MySQL
 
 ### 🧰 Tools
 
-**GitHub
-**VS Code
+**GitHub || VS Code
 
 ## 📚 Currently Learning
 
@@ -55,13 +50,11 @@ scalable, and efficient web applications.
 
 ## 🤝 Connect With Me
 
-📧 **Email:** sultan753874@gmail.com
+📧 Email: sultan753874@gmail.com
 
-💼 **LinkedIn:**  
-www.linkedin.com/in/sultanmahmud75
+💼 LinkedIn: www.linkedin.com/in/sultanmahmud75
 
-🐙 **GitHub:**  
-https://github.com/sultan-mahmud-salman
+🐙 GitHub: https://github.com/sultan-mahmud-salman
 
 
 
